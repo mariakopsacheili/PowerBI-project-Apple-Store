@@ -1,7 +1,7 @@
 # 📊 Power BI Dashboard Project
 # Title: An App store analysis in order to give us insights for the development of  a new app
 # Authors: Maria Kopsacheili, Giannis Angelidakis
-==========================
+
 # 📌 Overview
 This project involves the creation of a Power BI dashboard designed to visualize and analyze data related to app performance in the Apple Store. The dashboard provides insights into app ratings, revenue and genre popularity. The goal of this analysis is to give us insights for the development of  a new app.
 
@@ -11,7 +11,7 @@ This project involves the creation of a Power BI dashboard designed to visualize
 - Genre Popularity: Highlights the most popular app genres based on user engagement.
 - Age Group Analysis: Examines app usage across different age groups.
   
-#🛠️ Requirements
+# 🛠️ Requirements
 Power BI Desktop: Required for editing and updating the dashboard.
 
 
