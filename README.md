@@ -3,7 +3,7 @@
 # Authors: Maria Kopsacheili, Giannis Angelidakis
 
 # 📌 Overview
-This project involves the creation of a Power BI dashboard designed to visualize and analyze data related to app performance in the Apple Store. The dashboard provides insights into app ratings, revenue and genre popularity. The goal of this analysis is to give us insights for the development of  a new app.
+This Power BI dashboard provides insights into app performance on the Apple Store. The analysis includes app ratings, revenue trends, age groups, app pricing (paid or free), and genre popularity for the year 2017. By visualizing key metrics, stakeholders can make data-driven decisions to optimize app design and strategy.
 
 # 🧩 Features
 - App Ratings Analysis: Visualizes the normalized ratings of top apps.
