@@ -17,7 +17,7 @@ This project involves the creation of a Power BI dashboard designed to visualize
 
 - Top-Rated Apps: Facebook, Instagram, Clash of Clans were some of the top rated apps with more than 4.5/5 rating. The two belong to Social genre and the on to Game genre.
 
-![image](https://github.com/user-attachments/assets/64145edf-4e0c-4302-8221-838a7dfa38ad)
+  ![image](https://github.com/user-attachments/assets/64145edf-4e0c-4302-8221-838a7dfa38ad)
 
 
 - Top Revenue Apps: Minecraft, Fruit Ninja and Draw something were top 3 most profitable apps with over 1 milion dolars revenue and Minecraft to reach 3.6 milion dolars. All 3 of those belong to Game genre.
